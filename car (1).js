@@ -1,0 +1,4 @@
+class car extends vehicle
+{
+    
+}
